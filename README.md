@@ -53,16 +53,4 @@ graph TD;
 
 ---
 
-## ☁️ Git 使用（推送至你的仓库）
 
-```bash
-cd medical-agent
-git init
-git remote add origin https://github.com/T-zy/medical-agent.git
-git add .
-git commit -m "initial commit: LangGraph medical agent"
-git branch -M main
-git push -u origin main
-```
-
----
